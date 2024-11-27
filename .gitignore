@@ -1,0 +1,3 @@
+guix-store/
+/alpine-guix-docker
+guix-binary-*

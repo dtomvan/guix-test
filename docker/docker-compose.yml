@@ -1,0 +1,6 @@
+services:
+    guix:
+        privileged: true
+        container_name: lets-try-guix
+        build: .
+        # network_mode: host
